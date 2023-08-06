@@ -1,0 +1,53 @@
+img{
+  object-fit: cover;
+  width:150px;
+  height:150px;
+  margin-right: auto;
+}
+body { 
+  background-color: rgb(247, 232, 199);
+}
+#exp {
+  text-align: center;
+  color: brown
+}
+#hab {
+  text-align: center;
+  color: brown
+}
+
+#edu {
+  color: brown
+}
+#per {
+  color: brown
+}
+#con {
+  color: brown
+}
+
+
+#intereses {
+  color: brown
+}
+.sub
+    {color: orangered; 
+      font-family: impact; }
+
+th{
+  text-align: center;
+}
+
+
+    .expe {
+      color: red;
+    }
+    h1 {
+      color: rgb(153, 40, 40);
+      font-family: 'Courier New', Courier, monospace;
+      text-align: center;
+    }
+
+th{
+  color: red;
+}
